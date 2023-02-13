@@ -1,6 +1,6 @@
 # MoniBank 🏧
 
-  MoniBank é um projeto criado durante um curso sobre JavaScript na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando a linguagem JavaScript, sendo uma página WEB com um teclado de sons para o aprendizado devalidações em JavaScript, sendo validacões de cpf, endereço e também utilizar a camêra do usuário para tirar foto. Também utiliza NodeJs.
+  MoniBank é um projeto criado durante um curso sobre JavaScript na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando a linguagem JavaScript, sendo uma página WEB com um teclado de sons para o aprendizado devalidações em JavaScript, sendo validacões de cpf, endereço e também utilizar a camêra do usuário para tirar foto.
   
 ## 🚀 Começando
 
